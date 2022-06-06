@@ -6,6 +6,6 @@ https://bradleyparris.github.io/Module-5-Challenge/
 
 Schedule out your workday with color-coded timeblocks! Saves to your local storage.
 
-Past = grey
-Present = red
-Future = green
+Past = grey | Present = red | Future = green
+
+
